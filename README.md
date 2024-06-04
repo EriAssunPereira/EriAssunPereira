@@ -1,25 +1,36 @@
-A história do Scrum remonta à década de 1980, quando Hirotaka Takeuchi e Ikujiro Nonaka, estudiosos japoneses, publicaram um artigo intitulado “O novo jogo de negócios”. Nesse artigo, eles descreveram um modelo de desenvolvimento de produtos baseado em equipes auto-organizadas e multidisciplinares, com ciclos curtos de entrega de resultados. Essa abordagem, que eles chamaram de “rugby”, serviu de inspiração para o desenvolvimento do Scrum como o conhecemos hoje.
+### Olá! Eu sou Eri Pereira 🙋‍♂️
 
-Atualmente, um método tem sido muito utilizado por diferentes empreendimentos, tanto de pequeno como de grande porte: é a Metodologia Scrum. Geralmente, uma área em que essa metodologia se mostra mais rica e repleta de oportunidades é o desenvolvimento de softwares.
+[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://eusoueridba.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/eusoueridba.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eusoueridba)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/eusoueridba)
 
-Por meio desse framework, o gerenciamento de projetos se torna mais ágil, seguindo etapas predefinidas, de modo a criar o produto ou serviço de maneira rápida e que seja condizente com as expectativas do cliente.
+![EriAssunPereia Github stats](https://github-readme-stats.vercel.app/api?username=eriassunpereira)
 
-No projeto de hoje, você conhecerá uma das empresas que utilizam a metodologia Scrum e como ela é capaz de afetar os resultados e é responsável pelo sucesso dessas grandes corporações que estão em destaque no mercado. Confira um dos exemplos:
+## Tecnologias que eu uso no dia a dia
 
-A Rede Globo aplicou a metodologia Scrum em seu site, Globo.com, desde meados de 2007. Durante o processo de implementação, muitos foram os problemas que surgiram e que precisaram ser resolvidos.
+<div e dba style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<div e dba style="display: inline_block"><br/>
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<div e dba style="display: inline_block"><br/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<div e dba style="display: inline_block"><br/>
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<div e dba style="display: inline_block"><br/>
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<div e dba style="display: inline_block"><br/>
+  <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<div e dba style="display: inline_block"><br/>
+  <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<div e dba style="display: inline_block"><br/>
+  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<div e dba style="display: inline_block"><br/>
+  <img align="center" alt="microsoftazure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<div e dba style="display: inline_block"><br/>
+  <img align="center" alt="amazonaws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div e dba><br/>
+  
+  Apaixonado por tecnologia, educaçõa e por mudar a vida das pessoas atrvés da programação.
 
-Uma das dificuldades foi a falta de definição de prioridades e o período de adaptação da metodologia às necessidades da empresa.
-
-Porém, a equipe responsável também teve muito sucesso com a iniciativa, não tendo dúvidas de que processos ágeis, como a Metodologia Scrum, são primordiais para a otimização do desenvolvimento de softwares.
-
-Embora muito utilizados por equipes de [desenvolvimento de software], os princípios desse conjunto podem ser aplicados a todos os tipos de trabalhos em equipe.
-
-Em função de não ser linear, você pode empregar vários outros processos ou técnicas, para que você possa melhorá-los. Também não é um processo prescritivo, ou seja, não descreve o que fazer em cada situação, pois em trabalhos complexos é impossível prever tudo o que irá ocorrer. É um conjunto de valores, princípios e práticas que fornecem a base para que sua organização efetue suas práticas particulares de engenharia e gestão e que sejam relevantes para a realidade de sua empresa. O resultado será uma versão do Scrum que é exclusivamente sua.
-
-Scrum possui seu foco no gerenciamento e projeto da organização onde é difícil planejado à frente. Mecanismos de Controle de Processo Empírico, onde ciclos de feedback específicos do núcleo da técnica de gerenciamento são usados ​​em oposição ao gerenciamento tradicional de comando e controle. É uma forma de planejar e gerenciar projetos trazendo a autoridade da [tomada de decisão] aos níveis de propriedade de operação e certeza.
-
-Apesar da palavra não ser um [acrônimo], algumas empresas que implementam o processo a soletram com letras guardadas como SCRUM. Isso pode ser devido aos primeiros artigos de [Ken Schwaber] que colocaram SCRUM em confiança no título.
-
-Apesar de ser criado para gerenciamento de projetos de software, também pode ser utilizado em equipes de [manutenção de software] ou como uma abordagem geral de gerenciamento de projetos/programas.
-
-Atualmente, as técnicas de [DevOps] são utilizadas por programadores no desenvolvimento de software em conjunto com técnicas de gestão e desenvolvimento ágil de software, como o Scrum.
+  ## Últimos projetos:
