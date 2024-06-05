@@ -7,6 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/eusoueridba)
 
 ![Eri A Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=eriassunpereira&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no dia a dia.
 
@@ -32,9 +33,9 @@
   <img align="center" alt="shift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   </div e dba><br/> 
   
-  Apaixonado por tecnologia, educaçõa e por mudar a vida das pessoas atrvés da programação.
+  ### Apaixonado por tecnologia, educaçõa e por mudar a vida das pessoas atrvés da programação.
 
+  
   ## Últimos projetos:
   
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/eriassunpereira/github-readme-stats)
-
+ 
