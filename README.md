@@ -37,7 +37,7 @@
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div e dba><br/> 
   
-  ### Apaixonado por tecnologia, educaçõa e por mudar a vida das pessoas atrvés da programação.
+  ### Apaixonado por tecnologia, educaçõa e por mudar a vida das pessoas através da programação.
 <br/>
   
   ## Últimos projetos:
